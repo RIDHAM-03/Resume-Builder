@@ -32,7 +32,7 @@ Features:
 
 > Disclaimer: To enhance the vision and usage, we are shadowing our user's interactions. This is solely performed to serve you better
 
-Learn more about our design in the [*E-Resume — Build a professional resume: Design case study* Medium post.](https://uxplanet.org/e-resume-build-a-professional-resume-design-case-study-3dc02a6359ea)
+Learn more about our design in the [*Resume — Build a professional resume: Design case study* Medium post.](https://uxplanet.org/e-resume-build-a-professional-resume-design-case-study-3dc02a6359ea)
 
 ## Contributing Guide
 
@@ -44,9 +44,7 @@ File a [bug report](https://github.com/RIDHAM-03/resume-builder/issues/new?assig
 
 [View all issues.](https://github.com/RIDHAM-03/resume-builder/issues)
 
-## Core Contributors
 
-<a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-033"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
 
 ## License
 
