@@ -8,8 +8,8 @@
 
 https://e-resume.vercel.app
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
+[![](https://img.shields.io/github/stars/RIDHAM-03/single-page-resume-builder?style=for-the-badge)](#stars)
+[![](https://img.shields.io/github/forks/RIDHAM-03/single-page-resume-builder?style=for-the-badge)](#forks)
 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Material React](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
@@ -19,7 +19,7 @@ https://e-resume.vercel.app
 
 ## About
 
-[Resume Builder](https://e-resume.vercel.app) is an open-source application where one can effectively build a single-page professional resume.
+[Resume Builder](https://resume-builder-web-app-ridhams-projects-c8b72b97.vercel.app/) is an open-source application where one can effectively build a single-page professional resume.
 
 Visit our [User Guide](USER_GUIDE.md) to start building!
 
@@ -40,13 +40,13 @@ If you are interested in contributing (fixing bugs, improving features, or creat
 
 ## Report Bugs and Feature Requests
 
-File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/sadanandpai/resume-builder/issues/new/choose) page. 
+File a [bug report](https://github.com/RIDHAM-03/resume-builder/issues/new?assignees=RIDHAM-03&labels=&template=bug_report.md&title=) or [feature request](https://github.com/RIDHAM-03/resume-builder/issues/new?assignees=RIDHAM-03&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/RIDHAM-03/resume-builder/issues/new/choose) page. 
 
-[View all issues.](https://github.com/sadanandpai/resume-builder/issues)
+[View all issues.](https://github.com/RIDHAM-03/resume-builder/issues)
 
 ## Core Contributors
 
-<a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/gopal1996"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/yakshaG"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/siva-kannan3"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
+<a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/12962887" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/22369081" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-03"><img src="https://avatars.githubusercontent.com/u/26523871" alt="sadanand" height="75px" width="75px" /></a> <a href="https://github.com/RIDHAM-033"><img src="https://avatars.githubusercontent.com/u/60533560" alt="sadanand" height="75px" width="75px" /></a>
 
 ## License
 
